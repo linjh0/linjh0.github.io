@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linjh0&show_icons=true&theme=tokyonight" /> </div>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=linjh0&show_icons=true&theme=tokyonight" /> </div>
     <header>
       <h1>My Name</h1>
       <nav>
